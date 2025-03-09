@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Embedded Systems**, **IoT**, **Microcontrollers**, and **Automation**.
 - 🌱 I’m currently learning **Advanced Embedded Programming**, **Hardware**, and **PCB Design**.
 - 💞️ I’m looking to collaborate on **Embedded Projects**, **IoT-based Applications**, and **Automation Systems**.
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rangam-sundram/) or send me an email at **rangamsundram@gmail.com**.
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rangam-sundram/) or send me an email at **rangamkumarsundram@gmail.com**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: I love building projects that make life easier with technology and enjoy experimenting with new tech!
 
